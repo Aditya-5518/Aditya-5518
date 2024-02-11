@@ -1,7 +1,7 @@
 
 <img align="center" alt="codegif" width="1000" src="https://github.com/Aditya-5518/Aditya-5518/blob/main/World.png">
 <h1 align="center">Hi 👋, I'm Aditya Chandra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A software developer</h3>
 <img align="right" alt="codegif" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-5518&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-5518" /> </p>
 
